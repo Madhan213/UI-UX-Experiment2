@@ -1,5 +1,8 @@
 # UI-UX-Experiment2
 
+NAME : MADHAN.S
+REG NO : 212223045004
+
 ## Aim:
 To design a modern and user-friendly e-commerce mobile application named NovaMart using Figma. The application includes login, product browsing, product details, and shopping cart screens with a clean and attractive user interface.
 
